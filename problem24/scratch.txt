@@ -1,0 +1,74 @@
+12345  sorted to the 4th (last) index
+
+*123 45 subarray expanded
+
+123 54 lead of subarray swapped with highest in the remainig subarray, remaining subarray sorted
+*123 54 subarray is reverse sorted 
+*12 345 subarray expanded
+
+12 435 lead of subarray swapped with highest in the remainig subarray, remaining subarray sorted
+
+1243 5 subarray expanded
+1243 5 subarray is reverse sorted 
+124 35 subarray expanded
+124 53 lead of subarray swapped with highest in the remainig subarray, remaining subarray sorted
+124 53 subarray is reverse sorted 
+
+13245
+
+13254
+13425
+13452
+13524
+13542
+14235
+14253
+14325
+14352
+14523
+14532
+15234
+15243
+15324
+15342
+15423
+15432
+21345
+11354
+
+
+01
+10
+
+012  21
+021
+
+102  20
+120
+
+201  10
+210
+
+
+3456
+
+3465
+
+3546
+
+3564
+
+3645
+
+3654
+
+4356
+
+6354
+
+
+
+12345
+12354
+12435
+12
